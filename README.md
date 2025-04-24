@@ -2,7 +2,7 @@
 
 Um app que conecta a comunidade FURIA de forma inteligente e divertida, usando dados de redes sociais e gamificação para criar uma experiência única para cada fã.
 
-![Screenshot](./screenshot.png) <!-- Substitua com a imagem do protótipo se quiser -->
+![Screenshot](./proto.png) 
 
 ---
 

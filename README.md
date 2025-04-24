@@ -53,5 +53,5 @@ Um app que conecta a comunidade FURIA de forma inteligente e divertida, usando d
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/furia-fan-profile.git
+git clone https://github.com/rafaelholder/FURIA-Know-Your-Fan.git
 cd furia-fan-profile

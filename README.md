@@ -55,3 +55,17 @@ Um app que conecta a comunidade FURIA de forma inteligente e divertida, usando d
 ```bash
 git clone https://github.com/rafaelholder/FURIA-Know-Your-Fan.git
 cd furia-fan-profile
+```
+### Inicie o Frontend
+```bash
+cd client
+npm install
+npm run dev
+```
+### Inicie o Backend
+```bash
+cd ../server
+npm install
+npm run dev
+```
+### Configure variáveis de ambiente no .env com suas credenciais de APIs sociais e banco de dados.
